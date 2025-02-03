@@ -17,5 +17,8 @@
     "url": "https://github.com/apekshashinde1011/retail-web-api/issues"
   },
   "homepage": "https://github.com/apekshashinde1011/retail-web-api#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^4.21.2"
+  }
 }
